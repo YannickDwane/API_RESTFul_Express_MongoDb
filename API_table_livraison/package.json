@@ -1,0 +1,26 @@
+{
+  "name": "node-easy-notes-app",
+  "version": "1.0.0",
+  "description": "rendu WS ARTICRAFT",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Express",
+    "RestAPI",
+    "MongoDB",
+    "Mongoose",
+    "Notes"
+  ],
+  "author": "yannick",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "localStorage": "^1.0.4",
+    "mongoose": "^5.2.8",
+    "require-from-url": "^3.1.3",
+    "store2": "^2.14.2"
+  }
+}
